@@ -1,3 +1,2 @@
-# game
-test
-test 2
+# NIM Game
+Just trying to build a game
